@@ -1,5 +1,5 @@
 # Ledger
-** A very simple web app to summarize ledger using the science tools for small businesses** 
+**A very simple web app to summarize ledger using the science tools for small businesses** 
 
 This project was conceived to help small businesses to understand the growth of their businesses. Here, a ledger file
 income.csv file (entries for sales "1" and purchases "0") is used to keep track of transactions. To analyze the growth
